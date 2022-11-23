@@ -121,7 +121,7 @@ a {
   display: flex;
   justify-content: space-between;
   align-items: flex-end;
-  padding-top: 22%;
+  padding-top: calc(100vh - 35%);
 }
 
 .hero_left {

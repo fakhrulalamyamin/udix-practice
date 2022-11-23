@@ -121,12 +121,12 @@ a {
   display: flex;
   justify-content: space-between;
   align-items: flex-end;
-  padding-top: calc(100vh - 35%);
+  padding-top: calc(100vh - 40%);
 }
 
 .hero_left {
   color: white;
-  width: 35%;
+  width: 25%;
 }
 
 .hero_left h1 {
